@@ -1,0 +1,13 @@
+{
+  "participant": "working_solution.py",
+  "best_score": -9.999999999999831,
+  "success_rate": 0.0,
+  "agent_info": {
+    "learning_rate": 0.4,
+    "discount_factor": 0.95,
+    "exploration_rate": 0.2,
+    "agent_type": "Q-Learning with Goal-Directed Exploration",
+    "special_features": "Optimistic init, directional bias, adaptive exploration"
+  },
+  "episodes": 100
+}
